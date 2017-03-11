@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EasySpot</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Parse -->
+    <string name="parse_app_id">xDZ8e41egFPpMHWZaD0KxfbbbsdftKSnVumKsFXb</string>
+    <string name="parse_client_key">v0AXisDgQ4Qrhm6xyP4ScAvqNt0MKy3jFurQ11Nq</string>
+    <string name="querySpot">Spot</string>
+    <string name="querySpotStatus">isFree</string>
+    <string name="spotStatusBooked">zarezerwowany</string>
+
+    <!-- App -->
+    <string name="bookButton">Zarezerwuj</string>
+    <string name="failFetchSpots">Pobieranie danych parkingowych nie powiodło się</string>
+    <string name="bookSpotSuccess">Zarezerwowano miejsce parkingowe</string>
+    <string name="spotIdTextView">Numer parkingu</string>
+    <string name="spotStatusTextView">Status</string>
+    <string name="bookSpotTextView">Zarezerwuj</string>
+    <string name="LaunchAppBtn">Zobacz parking</string>
+
+    <!-- TAGS -->
+    <string name="fetchDataSuccess">Parse data successfully fetched</string>
+    <string name="fetchDataError">Error while fetching Parse data</string>
+
+    <!-- Intent names -->
+    <string name="intentExtraCurrentSpotStatus">currentSpotsStatus</string>
+
+
+</resources>

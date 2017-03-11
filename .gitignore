@@ -1,0 +1,5 @@
+umik.key
+.DS_Store
+easy_spot-sensor/*.c
+easy_spot-sensor/*.h
+easy_spot-sensor/*.txt
